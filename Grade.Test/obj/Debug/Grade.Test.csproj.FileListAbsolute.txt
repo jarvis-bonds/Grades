@@ -1,0 +1,8 @@
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\bin\Debug\Grade.Test.dll
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\bin\Debug\Grade.Test.pdb
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.csprojResolveAssemblyReference.cache
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.dll
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\obj\Debug\Grade.Test.pdb
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\bin\Debug\Grades.exe
+C:\Users\jarvi\Documents\Visual Studio 2015\Projects\Grades\Grade.Test\bin\Debug\Grades.pdb
